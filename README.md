@@ -19,7 +19,7 @@ This library includes the following classical ciphers:
 ---
 
 ## Installation
-You can install this library using `pip` (after uploading it to PyPI):
+You can install this library using `pip`:
 
 ```bash
 pip install CryptoClasec
